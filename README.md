@@ -1,5 +1,5 @@
 # KerisBot
-An Open Source Micromouse robot. The name will be KerisBot.
+An Open Source Micromouse robot. The name will be KerisBot. This project is Inspired from ZoroBot3, but I change some of the component to make it more cheaper
 
 # Hardware  
 1. Microcontrollers:STM32F405RGT6 @168MHz
