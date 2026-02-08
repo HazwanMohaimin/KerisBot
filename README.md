@@ -12,3 +12,6 @@ An Open Source Micromouse robot. The name will be KerisBot. This project is Insp
 8. Sensors:
      - 4 Emitter IR
      - 4 Reciever IR
+
+# Software
+1. Program using VSCode
